@@ -1,5 +1,3 @@
-
-
 {
   
     "presets": ["@babel/preset-react", "@babel/preset-env", "@babel/babel-loader", "@babel/core"],
