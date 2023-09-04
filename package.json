@@ -1,5 +1,5 @@
 {
-  "homepage":"https://github.io/Usmanwasif123/stock-photo",
+  "homepage": "https://github.com/Usmanwasif123/stock-photo",
   "name": "stock_photo",
   "version": "0.1.0",
   "description": "package file",
@@ -11,6 +11,7 @@
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.10.1",
@@ -44,9 +45,9 @@
   },
   "devDependencies": {
     "@babel/core": "^7.22.9",
+    "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
     "@babel/preset-env": "^7.22.9",
     "@babel/preset-react": "^7.22.5",
-    "@babel/plugin-proposal-private-property-in-object": "^7.21.0",
     "babel-loader": "^9.1.3",
     "react-scripts": "^5.0.1"
   }
